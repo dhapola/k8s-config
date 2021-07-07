@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   labels:
     name: eks-example
+    tag: data
   name: eks-example
